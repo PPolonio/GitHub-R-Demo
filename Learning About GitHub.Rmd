@@ -12,7 +12,18 @@ knitr::opts_chunk$set(echo = TRUE)
 # Chick Weight Data
 
 Summary of Chick Weight Data
+_changes may have been done_
 
 ```{r CWplot}
 with(ChickWeight, plot(Time, weight, col=Diet))
 ```
+
+Modifications for GitHub
+
+```{r Calc}
+72 + (34*51 - 4982)/(18*45) 
+sqrt(81) 
+9**2
+```
+
+
